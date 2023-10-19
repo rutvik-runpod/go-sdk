@@ -1,0 +1,15 @@
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/bin/Debug/net6.0/Pulumi.Runpod.deps.json
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/bin/Debug/net6.0/Pulumi.Runpod.dll
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/bin/Debug/net6.0/Pulumi.Runpod.pdb
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/bin/Debug/net6.0/Pulumi.Runpod.xml
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/Pulumi.Runpod.csproj.AssemblyReference.cache
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/Pulumi.Runpod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/Pulumi.Runpod.AssemblyInfoInputs.cache
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/Pulumi.Runpod.AssemblyInfo.cs
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/Pulumi.Runpod.csproj.CoreCompileInputs.cache
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/Pulumi.Runpod.sourcelink.json
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/Pulumi.Runpod.dll
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/refint/Pulumi.Runpod.dll
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/Pulumi.Runpod.xml
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/Pulumi.Runpod.pdb
+/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/obj/Debug/net6.0/ref/Pulumi.Runpod.dll

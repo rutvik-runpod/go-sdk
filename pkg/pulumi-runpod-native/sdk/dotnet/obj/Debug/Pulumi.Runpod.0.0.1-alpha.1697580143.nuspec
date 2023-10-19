@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Pulumi.Runpod</id>
+    <version>0.0.1-alpha.1697580143+35ce1cb4.dirty</version>
+    <authors>Pulumi Corp.</authors>
+    <icon>logo.png</icon>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/rutvik-runpod/pulumi-runpod-native.git" commit="35ce1cb4b7f69c717e41b9d838c2c802fc03354e" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Pulumi" version="[3.54.1, 4.0.0)" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/bin/Debug/net6.0/Pulumi.Runpod.pdb" target="lib/net6.0/Pulumi.Runpod.pdb" />
+    <file src="/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/bin/Debug/net6.0/Pulumi.Runpod.dll" target="lib/net6.0/Pulumi.Runpod.dll" />
+    <file src="/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/bin/Debug/net6.0/Pulumi.Runpod.xml" target="lib/net6.0/Pulumi.Runpod.xml" />
+    <file src="/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/version.txt" target="content/version.txt" />
+    <file src="/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/pulumi-plugin.json" target="content/pulumi-plugin.json" />
+    <file src="/Users/rutvik/Desktop/runpod/pulumi-runpod-native/sdk/dotnet/logo.png" target="logo.png" />
+  </files>
+</package>

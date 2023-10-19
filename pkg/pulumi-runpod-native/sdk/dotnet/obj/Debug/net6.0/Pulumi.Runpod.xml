@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pulumi.Runpod</name>
+    </assembly>
+    <members>
+        <member name="M:Pulumi.Runpod.Provider.#ctor(System.String,Pulumi.Runpod.ProviderArgs,Pulumi.CustomResourceOptions)">
+             <summary>
+             Create a Provider resource with the given unique name, arguments, and options.
+             </summary>
+            
+             <param name="name">The unique name of the resource</param>
+             <param name="args">The arguments used to populate this resource's properties</param>
+             <param name="options">A bag of options that control this resource's behavior</param>
+        </member>
+        <member name="M:Pulumi.Runpod.Random.#ctor(System.String,Pulumi.Runpod.RandomArgs,Pulumi.CustomResourceOptions)">
+             <summary>
+             Create a Random resource with the given unique name, arguments, and options.
+             </summary>
+            
+             <param name="name">The unique name of the resource</param>
+             <param name="args">The arguments used to populate this resource's properties</param>
+             <param name="options">A bag of options that control this resource's behavior</param>
+        </member>
+        <member name="M:Pulumi.Runpod.Random.Get(System.String,Pulumi.Input{System.String},Pulumi.CustomResourceOptions)">
+             <summary>
+             Get an existing Random resource's state with the given name, ID, and optional extra
+             properties used to qualify the lookup.
+             </summary>
+            
+             <param name="name">The unique name of the resulting resource.</param>
+             <param name="id">The unique provider ID of the resource to lookup.</param>
+             <param name="options">A bag of options that control this resource's behavior</param>
+        </member>
+    </members>
+</doc>
